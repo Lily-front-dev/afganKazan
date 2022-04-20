@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk-Light.eot');
+    src: local('Amazing Grotesk Light'), local('AmazingGrotesk-Light'),
+        url('AmazingGrotesk-Light.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk-Light.woff2') format('woff2'),
+        url('AmazingGrotesk-Light.woff') format('woff'),
+        url('AmazingGrotesk-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk-LightItalic.eot');
+    src: local('Amazing Grotesk Light Italic'), local('AmazingGrotesk-LightItalic'),
+        url('AmazingGrotesk-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk-LightItalic.woff2') format('woff2'),
+        url('AmazingGrotesk-LightItalic.woff') format('woff'),
+        url('AmazingGrotesk-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk-Italic.eot');
+    src: local('Amazing Grotesk Italic'), local('AmazingGrotesk-Italic'),
+        url('AmazingGrotesk-Italic.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk-Italic.woff2') format('woff2'),
+        url('AmazingGrotesk-Italic.woff') format('woff'),
+        url('AmazingGrotesk-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk-Ultra.eot');
+    src: local('Amazing Grotesk Ultra'), local('AmazingGrotesk-Ultra'),
+        url('AmazingGrotesk-Ultra.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk-Ultra.woff2') format('woff2'),
+        url('AmazingGrotesk-Ultra.woff') format('woff'),
+        url('AmazingGrotesk-Ultra.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amazing Infographic@';
+    src: url('AmazingInfographic.eot');
+    src: local('Amazing Infographic@'), local('AmazingInfographic@'),
+        url('AmazingInfographic.eot?#iefix') format('embedded-opentype'),
+        url('AmazingInfographic.woff2') format('woff2'),
+        url('AmazingInfographic.woff') format('woff'),
+        url('AmazingInfographic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk-UltraItalic.eot');
+    src: local('Amazing Grotesk Ultra Italic'), local('AmazingGrotesk-UltraItalic'),
+        url('AmazingGrotesk-UltraItalic.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk-UltraItalic.woff2') format('woff2'),
+        url('AmazingGrotesk-UltraItalic.woff') format('woff'),
+        url('AmazingGrotesk-UltraItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk.eot');
+    src: local('Amazing Grotesk'), local('AmazingGrotesk'),
+        url('AmazingGrotesk.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk.woff2') format('woff2'),
+        url('AmazingGrotesk.woff') format('woff'),
+        url('AmazingGrotesk.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk-DemiBold.eot');
+    src: local('Amazing Grotesk DemiBold'), local('AmazingGrotesk-DemiBold'),
+        url('AmazingGrotesk-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk-DemiBold.woff2') format('woff2'),
+        url('AmazingGrotesk-DemiBold.woff') format('woff'),
+        url('AmazingGrotesk-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amazing Grotesk';
+    src: url('AmazingGrotesk-DemiBoldItalic.eot');
+    src: local('Amazing Grotesk DemiBold Italic'), local('AmazingGrotesk-DemiBoldItalic'),
+        url('AmazingGrotesk-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AmazingGrotesk-DemiBoldItalic.woff2') format('woff2'),
+        url('AmazingGrotesk-DemiBoldItalic.woff') format('woff'),
+        url('AmazingGrotesk-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
